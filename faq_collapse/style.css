@@ -89,7 +89,7 @@ h1 {
   outline: 0;
 }
 
-.faq.active .faq.toggle {
+.faq.active .faq-toggle {
   background-color: #9fa4a8;
 }
 

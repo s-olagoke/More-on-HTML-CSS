@@ -56,7 +56,7 @@ function randomSelect() {
 function pickRandomTag() {
   const tags = document.querySelectorAll('.tag');
 
-  return tags[Math.floor(Math.random() * tag.length)];
+  return tags[Math.floor(Math.random() * tags.length)];
 }
 
 function highLightTag(tag) {
